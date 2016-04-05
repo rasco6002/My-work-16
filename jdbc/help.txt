@@ -1,0 +1,5 @@
+to able to communicate database from a java class we need driver.
+dbms vendor provide driver, it is a jar file so we have to make
+ a entry in classpath for this driver.
+ for mysql we use driver name "mysql-connector-java-5.1.6-bin.jar".
+ 
